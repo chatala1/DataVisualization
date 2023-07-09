@@ -1,4 +1,4 @@
-# FBI - Crime in the United States
+# FBI - Crime in the United States 🇺🇸
 ### Includes: Crime in the United States, by Region, Geographic Division, and State, 2015-2016
 
 ## About Dataset
