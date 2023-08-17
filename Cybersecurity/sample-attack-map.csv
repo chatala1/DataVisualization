@@ -1,4 +1,4 @@
-Attack Type, Latitude, Longitude, Incident Count
+Attack-Type, Latitude, Longitude, Incident-Count
 Phishing, 37.7749, -122.4194, 15
 Malware, 34.0522, -118.2437, 8
 Ransomware, 40.7128, -74.0060, 10
