@@ -1,6 +1,2 @@
-Cybersecurity Domain,Impact,Likelihood,Urgency,Mitigations,Feasibility
-Network Security,7,4,6,3,8
-Data Privacy,5,6,7,4,5
-Endpoint Security,6,5,5,6,4
-Application Security,8,3,6,2,7
-Threat Intelligence,4,7,3,5,6
+,Physical Security,Access Control,Encryption,Incident Response,Patch Management
+Control Category,0.8,0.9,0.7,0.6,0.85
